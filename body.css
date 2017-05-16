@@ -4,17 +4,17 @@ h1{
 }
 
 body{
-	background-color:#45f5e7;
-    width: 1000px;
-    height: 200px;
+	background-image:url("gambar.jpg");
+   	width: 1000px;
+    	height: 200px;
 	position:absolute;
 	left:160px;
 	top:50px;
 }
 
 #piano {
-    height: 100%;
-    padding: 5%;
+    	height: 100%;
+	box-shadow: 0 0 100px rgb(0,222,255);
 }
 
 #tuts {
