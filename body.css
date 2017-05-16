@@ -56,3 +56,21 @@ body{
     padding-bottom: 1%;
 }
 
+#ins {
+	overflow:hidden;
+	flex-flow: column;
+    	outline: 3px solid #474747;
+    	color: #474747;
+   	background-color: #ffffff;
+    	padding-bottom: 1%;
+}
+
+#struksi {
+	overflow:hidden;
+	flex-flow: column;
+    	outline: 3px solid #474747;
+    	color: #474747;
+    	background-color: #ffffff;
+    	padding-bottom: 1%;
+}
+
